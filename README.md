@@ -1,7 +1,7 @@
 Hi there, I'm Brendan Ehrman! 
 <br>
-I'm currently a junior CS student @ TAMU. I am working at Arena as a SWE intern
-for the summer!
+I'm currently a senior CS student @ TAMU. I am working at Arena as a SWE intern
+for the summer/fall!
 <br>
 To contact me, use these links:
 <br>
